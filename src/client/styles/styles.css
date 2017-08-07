@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: cadetblue;
+    -fx-padding: 10pt;
+}
+
+.label {
+    -fx-highlight-text-fill: darkred;
+    -fx-font-style: italic;
+    -fx-font-weight: bolder;
+    -fx-padding: 5pt;
+}
+
